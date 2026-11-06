@@ -1,4 +1,4 @@
-![Robsonwood Corps — Engineered in the North](https://raw.githubusercontent.com/RobsonwoodCorps/.github/main/profile/Banner.png)
+![Robsonwood Corps — Engineered in the North](https://raw.githubusercontent.com/RobsonwoodCorps/.github/main/profile/banner.png)
 
 # Robsonwood Corps
 
